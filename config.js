@@ -2,10 +2,10 @@ module.exports = {
     autoLikeStatus: true,
     downloadMediaStatus: false,
     sensorNumber: true,
-    sendWelcomeMessage: true,
+    sendWelcomeMessage: false,
     blackList: [],
     whiteList: [],
-    ownerNumber: '94764921555',
+    ownerNumber: '94773010580',
     userTimezone: 'Asia/Colombo',
     mongoUrl: 'mongodb+srv://hello:Mother@cluster0.aahbv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
     dbName: 'hello', // Replace with your database name

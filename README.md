@@ -20,13 +20,13 @@
 ### 🔶 **Exclusive VIP Features**
 
 <p align="center">
-  ▪ Auto Save Contacts
-  ▪ VIP Auto Status Seen ✅ 
-  ▪ Status React Master ✨ 
-  ▪ VIP Auto Welcome 🎉 
-  ▪ Advanced Number Sensor 🔒 
-  ▪ Priority Group Exports 📊 
-  ▪ Secret Access to Special Commands 🔑 
+  ▪ Auto Save Contacts <br>  
+  ▪ VIP Auto Status Seen ✅ <br>  
+  ▪ Status React Master ✨ <br>  
+  ▪ VIP Auto Welcome 🎉 <br>  
+  ▪ Advanced Number Sensor 🔒 <br>  
+  ▪ Priority Group Exports 📊 <br>  
+  ▪ Secret Access to Special Commands 🔑 <br>  
   ▪ Rapid Response System 🚀
 </p>
 
@@ -41,14 +41,14 @@
 
 ### 💬 **Contact the Developer**  
 <p align="center">  
-  <a href="mailto:your-email@example.com">  
+  <a href="mailto:https://wa.me/message/XRFBBS2BA5E3O1">  
     <img src="https://img.shields.io/badge/Contact%20Developer-FF6347?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Developer">  
   </a>  
 </p>  
 
 ### 📚 **Tutorial & Documentation**  
 <p align="center">  
-  <a href="https://link-to-tutorial.com">  
+  <a href="https://t.me/fenix_programmer">  
     <img src="https://img.shields.io/badge/Tutorial%20Button-32CD32?style=for-the-badge&logo=book&logoColor=white" alt="Tutorial">  
   </a>  
 </p>  

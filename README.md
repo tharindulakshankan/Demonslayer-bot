@@ -105,8 +105,9 @@
 
 To deploy this bot properly, ensure you add the following buildpacks to your Heroku app:
 
-- [FFmpeg Latest Buildpack](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest)
-- [WebP Binaries Buildpack](https://github.com/clhuang/heroku-buildpack-webp-binaries.git)
+```https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest```
+
+```https://github.com/clhuang/heroku-buildpack-webp-binaries.git```
 
 These buildpacks are essential for media processing tasks and optimizing image formats during the bot's operations.
 

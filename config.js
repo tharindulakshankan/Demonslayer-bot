@@ -2,7 +2,7 @@ module.exports = {
     autoLikeStatus: true,
     downloadMediaStatus: false,
     sensorNumber: true,
-    sendWelcomeMessage: false,
+    sendWelcomeMessage: true,
     blackList: [],
     whiteList: [],
     ownerNumber: '94773010580',

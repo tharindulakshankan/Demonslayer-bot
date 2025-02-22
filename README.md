@@ -1,98 +1,92 @@
-# DemonSlayer
+<!-- DemonSlayer - VIP Style ReadMe -->
 
-## Fenix Id Project
+<h1 align="center">  
+  <a href="#">  
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=DemonSlayer+WhatsApp+Bot;Fenix+ID+Project;VIP+Automation+System" alt="Typing SVG" />  
+  </a>  
+</h1>  
+---
 
-<p align="center">
-  <img src="https://i.ibb.co/xqq6NdBJ/2651.jpg" alt="DemonSlayer Image" width="400">
-</p>
+<h2 align="center">🌟 Welcome to DemonSlayer - VIP WhatsApp Bot</h2>
 
-### Introduction
-Welcome to **DemonSlayer**, the ultimate Fenix Id Project. This project is designed to showcase cutting-edge technology and innovative solutions.
+<p align="center">  
+  <img src="https://i.ibb.co/xqq6NdBJ/2651.jpg" width="500" alt="DemonSlayer" />  
+</p>  
 
-### Features
-- **Heroku Deployment:** Easily deploy your application to Heroku.
-- **QR Scan Integration:** Quickly access additional resources via QR scan.
+<p align="center"><i>Empowering WhatsApp with seamless automation for VIP users, creating a unique and enhanced messaging experience.</i></p>
 
-### Deploy to Heroku
+---
 
-<p align="center">
-  <a href="https://dashboard.heroku.com/new?template=YOUR_HEROKU_GITHUB_REPO_LINK">
-    <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" style="
-      transition: transform 0.2s ease-in-out;
-      box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
-    ">
-    <!-- Add hover effect -->
-    <style>
-      .heroku-deploy {
-        transition: transform 0.2s ease-in-out;
-        box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
-      }
-      .heroku-deploy:hover {
-        transform: scale(1.05);
-        box-shadow: inset -5em -5em #ccc;
-        cursor:pointer;
-      }
-    </style>
-    <!-- Note: The above CSS won't work in Markdown directly; use inline styles instead -->
-    <img class="" src="" alt="">
-    
-    <!-- Inline Styles for Hover Effect -->
-    <img src="https://www.herokucdn.com/deploy/button.svg" 
-         alt="Deploy to Heroku"
-         style="
-           transition: transform 0.2s ease-in-out;
-           box-shadow: inset -5em -5em transparent,
-                       inset -3em -3em #ccc,
-                       inset calc(-3em + (-10 * var(--i))) calc(-3em + (-10 * var(--j))) #aaa,
-                       inset calc(-3em + (10 * var(--i))) calc(-3em + (10 * var(--j))) #aaa,
-                       inset calc(-7 * var(--k)) calc(var(--l) / --m) hsl(var(--hue),70%,50%),
-                       inset calc(var(--n) / --o) hsl(calc(var(--hue)),70%,50%);
-           cursor:pointer;" 
-         onmouseover="
-           this.style.transform='scale(1.05)';
-           this.style.boxShadow='inset -5em -5em #ccc';
-         " 
-         onmouseout="
-           this.style.transform='';
-           this.style.boxShadow='';
-         ">
-    
-  
-</p>
+🔷 **Features**
 
-### QR Scan Button
+- 🚀 **Auto Status Reaction** - Automatically reacts to WhatsApp statuses with a personalized touch.
+- 💾 **Auto-Save Contacts** - Effortlessly saves contacts to your list.
+- 🔍 **Number Sensor** - Detects and handles phone numbers with ease for streamlined operations.
+- 🚫 **Blacklist/Whitelist Management** - Complete control over who can interact with the bot.
+- ⚡ **VIP Automation Functions** - Exclusive features available for VIP users to boost efficiency.
+- 💡 **And More...** - A continuously evolving system designed for advanced WhatsApp management.
 
-<p align="center">
-<a href="https://replit.com/@2023lastalone/FENIX-PRINTING-COD-FIX">
-<img src=
-"https://img.shields.io/badge/QR%20Scan-Scan%20Me-brightgreen?style=for-the-badge&logo=data:image/png;base64,iVBORw..." 
-alt=""
-style="
-transition-duration:.4s;cursor:pointer;border-radius:.25rem;padding:.375rem .75rem;font-size:.875rem;line-height:normal;vertical-align:text-bottom;">
-</a>
-<!-- Add hover effect -->
-<style scoped>
-.qr-scan {
-transition-duration:.4s;cursor:pointer;border-radius:.25rem;padding:.375rem .75rem;font-size:.875rem;line-height:normal;vertical-align:text-bottom;background-color:#34C759;color:#fff;border:none;}
-.qr-scan:hover {transform*scale*(1+.05);box-shadow*inset*-6*calc(.25*var(*--g));background-color:#28A745;}
-</style>
+---
 
-<!-- Inline Styles for Hover Effect -->
-<a href="#" class="" style=
-"
-transition-duration*.4*s*border-radius*.25*rm*padd*.375*r*m*.75*r*mfont-size*.875*r*mline-heightnormalvertical-aligntext-bottombackground-color#34C759color#fffbordernone*
-"
-onmouseover=
-"
-this.style.transform='scale*(1+.05)';
-this.style.boxShadow='inset*-6*c*a*l*c*(.*25*v*a*r(*--g))';
-this.style.backgroundColor='#28A745';
-"
-onmouseout=
-"
-this.style.transform='';
-this.style.boxShadow='';
-this.innerHTML='<svg width=\"24\" height=\"24\" viewBox=\"10000000000000\"><rect fill=\"#34C759\" x=\"8\" y=\"8\" rx=\"10000000\" ry=\"10000000\"></rect></svg>';
-">
+💻 **Tech Stack & Development**
 
-<img src="" alt="">
+- Built with **Python** for seamless automation.
+- Deployed and hosted on **Heroku** for easy access and scalability.
+- Fully integrated with **WhatsApp API** for enhanced communication features.
+
+---
+
+🚀 **Deploy on Heroku**
+
+<p align="center">  
+  <a href="https://heroku.com/deploy">  
+    <img src="https://img.shields.io/badge/Deploy%20to%20Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Deploy to Heroku">  
+  </a>  
+</p>  
+
+---
+
+🔑 **How It Works**
+
+1. **Connect** your WhatsApp account with the bot.
+2. **Customize** the settings based on your needs (VIP automation, blacklist/whitelist).
+3. **Enjoy** the automation as the bot reacts to statuses, saves contacts, and performs the automation tasks.
+
+---
+
+📷 **Scan QR Code**
+
+<p align="center">  
+  <a href="https://replit.com/@2023lastalone/FENIX-PRINTING-COD-FIX">  
+    <img src="https://img.shields.io/badge/Scan%20QR%20Code-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Scan QR Code">  
+  </a>  
+</p>  
+
+---
+
+✨ **About the Developer:**
+
+Created by **K.A.D Prageeth Lakshaan**, a skilled **Fenix Software Engineer**, DemonSlayer is designed to bring the ultimate VIP WhatsApp experience. With a deep understanding of automation and messaging technologies, Prageeth crafted this bot to help users save time and improve the quality of their interactions.
+
+💬 **Feel free to contact the developer directly:**  
+
+<p align="center">  
+  <a href="mailto:(https://wa.me/message/XRFBBS2BA5E3O1)">  
+    <img src="https://img.shields.io/badge/Contact%20Developer-FF6347?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Developer">  
+  </a>  
+</p>  
+
+📚 **Tutorial & Documentation:**  
+
+<p align="center">  
+  <a href="https://t.me/fenix_programmer">  
+    <img src="https://img.shields.io/badge/Tutorial%20Button-32CD32?style=for-the-badge&logo=book&logoColor=white" alt="Tutorial">  
+  </a>  
+</p>  
+
+---
+
+🔗 **Stay Connected:**
+
+- [GitHub](#)
+- [Heroku Deployment](#)

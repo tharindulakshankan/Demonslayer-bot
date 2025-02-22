@@ -41,14 +41,14 @@
 
 ### 💬 **Contact the Developer**  
 <p align="center">  
-  <a href="mailto:https://wa.me/message/XRFBBS2BA5E3O1">  
+  <a href="mailto:your-email@example.com">  
     <img src="https://img.shields.io/badge/Contact%20Developer-FF6347?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Developer">  
   </a>  
 </p>  
 
 ### 📚 **Tutorial & Documentation**  
 <p align="center">  
-  <a href="https://t.me/fenix_programmer">  
+  <a href="https://link-to-tutorial.com">  
     <img src="https://img.shields.io/badge/Tutorial%20Button-32CD32?style=for-the-badge&logo=book&logoColor=white" alt="Tutorial">  
   </a>  
 </p>  
@@ -98,6 +98,17 @@
     <img src="https://img.shields.io/badge/Scan%20QR%20Code-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Scan QR Code">  
   </a>  
 </p>  
+
+---
+
+### 📦 **Required Buildpacks**
+
+To deploy this bot properly, ensure you add the following buildpacks to your Heroku app:
+
+- [FFmpeg Latest Buildpack](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest)
+- [WebP Binaries Buildpack](https://github.com/clhuang/heroku-buildpack-webp-binaries.git)
+
+These buildpacks are essential for media processing tasks and optimizing image formats during the bot's operations.
 
 ---
 

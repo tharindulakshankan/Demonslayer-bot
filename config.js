@@ -7,7 +7,7 @@ module.exports = {
     blackList: [],
     whiteList: [],
     
-    ownerNumber: '94764921555',
+    ownerNumber: '94773010580',
     userTimezone: 'Asia/Colombo',
     //group contact push    
     fenixwel1: 'Your Number Has Been Auto Saved🫠',
@@ -17,12 +17,12 @@ module.exports = {
     autodetect1: 'heyyy 😸',
     autodetect2: 'ඔයගෙ නම්බරෙ ගත්තෙ ස්ටෙටස් එකකින් 🫠',
     
-    mongoUrl: 'mongodb+srv://94:94@cluster0.aahbv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
+    mongoUrl: 'mongodb+srv://Hello:Hello@cluster0.aahbv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
     dbName: '94', // Replace with your database name
 
     botDetails: {
-        botName: 'FERIX ID OWNER',
-        botAge: '20',
+        botName: 'FENIX ID OWNER',
+        botAge: '26',
         botLocation: 'SRILANKA',
         fenixSaveName: '999'
     },

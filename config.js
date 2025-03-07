@@ -7,12 +7,12 @@ module.exports = {
     whiteList: [],
     ownerNumber: '94741472009',
     userTimezone: 'Asia/Colombo',
-    mongoUrl: 'mongodb+srv://Podi:Podi@cluster0.aahbv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
-    dbName: 'Podi', // Replace with your database name
+    mongoUrl: 'mongodb+srv://Public:Public@cluster0.aahbv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
+    dbName: 'Public', // Replace with your database name
     botDetails: {
-        botName: 'ꪶ ɪⴕ "ᴢ ᴍᴇ 𝐌ᴷ̶ꜰ | ꜱᴜᴛɪ ꜱᴀꜱɪ ℘ 💀📍',
-        botAge: '19+',
-        botLocation: 'Negombo',
+        botName: 'ꪶ ɪⴕYumal📍',
+        botAge: '16',
+        botLocation: 'mathara',
         fenixSaveName: '𝐍ɑ͢ɱꪸ𝛆'
     },
     relaxWishes: [

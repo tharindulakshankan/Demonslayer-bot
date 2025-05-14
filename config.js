@@ -10,7 +10,7 @@ module.exports = {
     mongoUrl: 'mongodb+srv://Public:Public@cluster0.aahbv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
     dbName: 'Public', // Replace with your database name
     botDetails: {
-        botName: 'ꪶ Demon layer📍',
+        botName: 'ꪶ Demonlayer📍',
         botAge: '16',
         botLocation: 'mathara',
         fenixSaveName: '𝐍ɑ͢ɱꪸ𝛆'
